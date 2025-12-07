@@ -1,4 +1,4 @@
-# DSL RachaConta: Acerto de Contas Ponderado
+# DSL RachaConta
 
 ## Equipe
 - **Pedro Afonso Cavalcanti Salvador**
