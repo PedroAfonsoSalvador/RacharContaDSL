@@ -1,0 +1,8 @@
+evento "Churrasco da Aprovação"
+
+gasto 120.00 em "Picanha" por Pedro para todos
+gasto 60.00 em "Cerveja" por Ana para Pedro(1),Ana(1),Joao(2)
+gasto 30.00 em "Refrigerante" por Joao para todos
+gasto 15.00 em "Gelo" por Maria para todos
+
+fechar
