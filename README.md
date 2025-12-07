@@ -53,6 +53,7 @@ python src/main.py examples/churrasco.rc
 
 ## Exemplo de Programas
 Exemplo 01:
+
 Entrada
 ```bash
 evento "Churrasco da Aprovação"
@@ -80,6 +81,7 @@ ACERTO DE CONTAS (MÍNIMO DE TRANSAÇÕES)
 ```
 
 Exemplo 02:
+
 Entrada
 ```bash
 evento "Viagem para o Rio"
@@ -105,7 +107,8 @@ ACERTO DE CONTAS (MÍNIMO DE TRANSAÇÕES)
 ----------------------------------------
 ```
 
-Exemplo 03
+Exemplo 03:
+
 Entrada
 ```bash
 evento "Happy Hour da Firma"
